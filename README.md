@@ -1,9 +1,9 @@
-# Organize The Chaos — informations légales
+#tempo — informations légales
 
 Site public statique, distinct du dépôt Android privé.
 
-- Politique de confidentialité : https://sandrinedevandroid.github.io/otc-legal/confidentialite.html
-- Conditions d’utilisation : https://sandrinedevandroid.github.io/otc-legal/conditions.html
+- Politique de confidentialité : https://sandrinedevandroid.github.io/tempo-legal/confidentialite.html
+- Conditions d’utilisation : https://sandrinedevandroid.github.io/tempo-legal/conditions.html
 - Contact public : miss.sandrine.blog@gmail.com
 
 ## Déploiement sur GitHub Pages
